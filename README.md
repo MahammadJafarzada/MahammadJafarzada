@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ....<br>🌱 I’m currently learning React<br>⚡ Fun fact i'm funny
+🔭 I’m currently working on Trippwayy <br>🌱 I’m currently learning React<br>⚡ Fun fact i'm crazy
 
 
 ## 🌐 Socials:
