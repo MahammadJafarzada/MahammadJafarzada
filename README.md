@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mahammad Jafarzade</h1>
 <h3 align="center">A passionate mobile developer from Azerbaijan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahammadjafarzada&label=Profile%20views&color=0e75b6&style=flat" alt="mahammadjafarzada" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahammadjafarzade&label=Profile%20views&color=0e75b6&style=flat" alt="mahammadjafarzade" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahammadjafarzada" alt="mahammadjafarzada" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahammadjafarzade" alt="mahammadjafarzade" /></a> </p>
 
 - 🌱 I’m currently learning **Kotlin**
 
