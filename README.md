@@ -22,8 +22,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/magamedjafar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/magamedjafar" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahammadjafarzada&show_icons=true&locale=en&layout=compact" alt="mahammadjafarzada" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahammadjafarzade&show_icons=true&locale=en&layout=compact" alt="mahammadjafarzade" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahammadjafarzada&show_icons=true&locale=en" alt="mahammadjafarzada" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahammadjafarzade&show_icons=true&locale=en" alt="mahammadjafarzade" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahammadjafarzada&" alt="mahammadjafarzada" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahammadjafarzade&" alt="mahammadjafarzade" /></p>
