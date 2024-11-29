@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on myself<br><br>🌱 I’m currently learning Kotlin<br><br>📫 How to reach me mahammadjafarzda@gmail.com<br><br>⚡ Fun fact I am funny
+🔭 I’m currently working on myself<br><br>🌱 I’m currently learning React native<br><br>📫 How to reach me mahammadjafarzda@gmail.com<br><br>⚡ Fun fact I am funny
 
 
 ## 🌐 Socials:
