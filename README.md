@@ -1,30 +1,33 @@
-<h1 align="center">Hi 👋, I'm Mahammad Jafarzada</h1>
-<h3 align="center">A passionate mobile developer from Azerbaijan</h3>
 
+<h1 align="center">Hi 👋, I'm Mahammad Jafarzada</h1> <h3 align="center">QA Engineer | Manual Testing & Test Automation | Azerbaijan</h3> <p align="center"> <a href="https://www.linkedin.com/in/mahammadjafarzada/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:mahammadjafarzda@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> </p>
+About Me
 
+I'm a QA Engineer from Azerbaijan, focused on manual testing and test automation. My development background helps me understand application behavior, investigate issues, and communicate clearly with developers.
 
-# 💫 About Me:
-🔭 I’m currently working on myself<br><br>🌱 I’m currently learning React native<br><br>📫 How to reach me mahammadjafarzda@gmail.com<br><br>⚡ Fun fact I am funny
+    I focus on functional, regression, integration, and end-to-end testing.
+    I use Java and Selenium for UI test automation, and Postman and REST Assured for API testing.
+    I work with test cases, exploratory testing, and clear, reproducible bug reports.
+    I use SQL to validate data and check backend behavior.
+    I'm continuing to improve my automation skills and build practical QA projects.
+    Reach me at mahammadjafarzda@gmail.com.
 
+Testing Skills
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mehemmed.ceferzade/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/dailynomadcoder/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mahammadjafarzada/) 
+    Manual Testing: Test case design, exploratory testing, functional testing, regression testing, smoke testing, and boundary value analysis.
+    UI Automation: Java, Selenium WebDriver, and Cypress.
+    API Testing: Postman, REST Assured, REST APIs, HTTP methods, status codes, and response validation.
+    Database Testing: SQL queries, data validation, and data consistency checks.
+    Bug Reporting: Reproduction steps, expected vs. actual results, severity, and supporting evidence.
+    Workflow: Git, Jira, TestRail, Jenkins, and Agile/Scrum.
 
-# 💻 Tech Stack:
- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MahammadJafarzada&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MahammadJafarzada&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MahammadJafarzada&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+Tools & Technologies
+<p> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"> <img src="https://img.shields.io/badge/REST_Assured-00897B?style=for-the-badge" alt="REST Assured"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"> <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"> <img src="https://img.shields.io/badge/TestRail-65C179?style=for-the-badge" alt="TestRail"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"> </p>
+Development Background
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Experience with JavaScript, React, React Native, Kotlin, HTML, and CSS helps me test web and mobile applications with a better understanding of how they are built.
+Connect With Me
 
----
-[![](https://visitcount.itsvg.in/api?id=MahammadJafarzada&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/magamedjafar) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+    LinkedIn
+    Instagram
+    Facebook
+    Email
