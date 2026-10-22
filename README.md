@@ -1,33 +1,38 @@
 
-<h1 align="center">Hi 👋, I'm Mahammad Jafarzada</h1> <h3 align="center">QA Engineer | Manual Testing & Test Automation | Azerbaijan</h3> <p align="center"> <a href="https://www.linkedin.com/in/mahammadjafarzada/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:mahammadjafarzda@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> </p>
-About Me
+<h1 align="center">Mahammad Jafarzada</h1> <h3 align="center">QA Engineer · Manual Testing & Test Automation</h3> <p align="center"> Web & Mobile Testing &nbsp;•&nbsp; API Testing &nbsp;•&nbsp; Java Automation </p> <p align="center"> <a href="https://www.linkedin.com/in/mahammadjafarzada/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="Connect on LinkedIn"></a> <a href="mailto:mahammadjafarzda@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-334155?style=for-the-badge" alt="Get in touch by email"></a> <a href="https://github.com/MahammadJafarzada?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_my_work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories"></a> </p>
+About me
 
-I'm a QA Engineer from Azerbaijan, focused on manual testing and test automation. My development background helps me understand application behavior, investigate issues, and communicate clearly with developers.
+I'm a QA Engineer based in Azerbaijan with a background in web and mobile development. I test applications from the user's perspective, then look deeper into API responses and database records to understand where things go wrong.
 
-    I focus on functional, regression, integration, and end-to-end testing.
-    I use Java and Selenium for UI test automation, and Postman and REST Assured for API testing.
-    I work with test cases, exploratory testing, and clear, reproducible bug reports.
-    I use SQL to validate data and check backend behavior.
-    I'm continuing to improve my automation skills and build practical QA projects.
-    Reach me at mahammadjafarzda@gmail.com.
+My focus is manual testing, API validation, and test automation with Java. I value clear test cases, reproducible bug reports, and automation that makes regression testing more reliable.
+What I work with
+Area	Focus
+Manual testing	Functional, smoke, regression, integration, and exploratory testing
+Test design	Positive and negative scenarios, boundary values, and equivalence partitioning
+UI automation	Java and Selenium WebDriver
+API testing	Postman and REST Assured; request/response validation and error handling
+Database validation	SQL queries, stored data, and consistency between the UI, API, and database
+Defect reporting	Reproduction steps, expected and actual results, severity, and evidence
+Team workflow	Git, Jira, TestRail, Jenkins, and Agile/Scrum
+Toolbox
 
-Testing Skills
+Automation & API testing
+<p> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"> <img src="https://img.shields.io/badge/REST_Assured-00897B?style=for-the-badge" alt="REST Assured"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"> <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"> </p>
 
-    Manual Testing: Test case design, exploratory testing, functional testing, regression testing, smoke testing, and boundary value analysis.
-    UI Automation: Java, Selenium WebDriver, and Cypress.
-    API Testing: Postman, REST Assured, REST APIs, HTTP methods, status codes, and response validation.
-    Database Testing: SQL queries, data validation, and data consistency checks.
-    Bug Reporting: Reproduction steps, expected vs. actual results, severity, and supporting evidence.
-    Workflow: Git, Jira, TestRail, Jenkins, and Agile/Scrum.
+Data, version control & delivery
+<p> <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" alt="SQL"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"> <img src="https://img.shields.io/badge/TestRail-65C179?style=for-the-badge" alt="TestRail"> </p>
+How I approach testing
 
-Tools & Technologies
-<p> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"> <img src="https://img.shields.io/badge/REST_Assured-00897B?style=for-the-badge" alt="REST Assured"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"> <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"> <img src="https://img.shields.io/badge/TestRail-65C179?style=for-the-badge" alt="TestRail"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"> </p>
-Development Background
+    Understand the flow. Identify the expected behavior, business rules, and areas where failure would matter most.
+    Test beyond the happy path. Check invalid input, boundaries, error states, and unexpected user actions.
+    Investigate across layers. Compare what the user sees with API responses and database values.
+    Make defects reproducible. Document the environment, steps, expected result, actual result, and supporting evidence.
+    Automate repeatable checks. Focus on useful regression coverage and tests that are easy to maintain.
 
-Experience with JavaScript, React, React Native, Kotlin, HTML, and CSS helps me test web and mobile applications with a better understanding of how they are built.
-Connect With Me
+Development background
 
-    LinkedIn
-    Instagram
-    Facebook
-    Email
+My experience with React, React Native, JavaScript, Kotlin, HTML, and CSS helps me understand application structure, inspect UI behavior, and discuss defects with developers.
+<details> <summary><b>Additional technologies</b></summary>
+
+Firebase · SQLite · Realm · Sass · Vite · Gradle · Figma
+</details> <p align="center"> <b>Let's connect</b><br><br> <a href="https://www.linkedin.com/in/mahammadjafarzada/">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:mahammadjafarzda@gmail.com">Email</a> &nbsp;·&nbsp; <a href="https://www.instagram.com/dailynomadcoder/">Instagram</a> </p> 
