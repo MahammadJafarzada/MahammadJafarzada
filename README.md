@@ -1,38 +1,83 @@
+<h1 align="center">Hi 👋, I'm Mahammad Jafarzada</h1>
+<h3 align="center">QA Engineer | Manual & Automation Testing | Java</h3>
 
-<h1 align="center">Mahammad Jafarzada</h1> <h3 align="center">QA Engineer · Manual Testing & Test Automation</h3> <p align="center"> Web & Mobile Testing &nbsp;•&nbsp; API Testing &nbsp;•&nbsp; Java Automation </p> <p align="center"> <a href="https://www.linkedin.com/in/mahammadjafarzada/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="Connect on LinkedIn"></a> <a href="mailto:mahammadjafarzda@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-334155?style=for-the-badge" alt="Get in touch by email"></a> <a href="https://github.com/MahammadJafarzada?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_my_work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories"></a> </p>
-About me
+<p align="center">
+  Based in Azerbaijan 🇦🇿 • Focused on software quality, API testing, and test automation
+</p>
 
-I'm a QA Engineer based in Azerbaijan with a background in web and mobile development. I test applications from the user's perspective, then look deeper into API responses and database records to understand where things go wrong.
+<p align="center">
+  <a href="https://www.linkedin.com/in/mahammadjafarzada/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:mahammadjafarzda@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
-My focus is manual testing, API validation, and test automation with Java. I value clear test cases, reproducible bug reports, and automation that makes regression testing more reliable.
-What I work with
-Area	Focus
-Manual testing	Functional, smoke, regression, integration, and exploratory testing
-Test design	Positive and negative scenarios, boundary values, and equivalence partitioning
-UI automation	Java and Selenium WebDriver
-API testing	Postman and REST Assured; request/response validation and error handling
-Database validation	SQL queries, stored data, and consistency between the UI, API, and database
-Defect reporting	Reproduction steps, expected and actual results, severity, and evidence
-Team workflow	Git, Jira, TestRail, Jenkins, and Agile/Scrum
-Toolbox
+## About Me
 
-Automation & API testing
-<p> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"> <img src="https://img.shields.io/badge/REST_Assured-00897B?style=for-the-badge" alt="REST Assured"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"> <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"> </p>
+I'm a QA Engineer focused on manual testing and test automation for web applications and APIs.
 
-Data, version control & delivery
-<p> <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" alt="SQL"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"> <img src="https://img.shields.io/badge/TestRail-65C179?style=for-the-badge" alt="TestRail"> </p>
-How I approach testing
+I enjoy exploring how applications behave, identifying edge cases, and turning requirements into clear, practical test scenarios. My development background helps me understand application behavior and communicate technical issues with developers.
 
-    Understand the flow. Identify the expected behavior, business rules, and areas where failure would matter most.
-    Test beyond the happy path. Check invalid input, boundaries, error states, and unexpected user actions.
-    Investigate across layers. Compare what the user sees with API responses and database values.
-    Make defects reproducible. Document the environment, steps, expected result, actual result, and supporting evidence.
-    Automate repeatable checks. Focus on useful regression coverage and tests that are easy to maintain.
+- 🔍 Interested in functional, regression, integration, and exploratory testing.
+- ☕ Building my automation skills with Java, Selenium WebDriver, and REST Assured.
+- 🔌 Working with Postman for API testing and SQL for data validation.
+- 📝 Focused on clear test cases, reproducible bug reports, and useful test documentation.
+- 📫 Reach me at **mahammadjafarzda@gmail.com**.
 
-Development background
+## Testing Focus
 
-My experience with React, React Native, JavaScript, Kotlin, HTML, and CSS helps me understand application structure, inspect UI behavior, and discuss defects with developers.
-<details> <summary><b>Additional technologies</b></summary>
+| Area | Focus |
+| --- | --- |
+| Manual Testing | Functional, exploratory, smoke, and regression testing |
+| Web Testing | User journeys, form validation, and cross-browser behavior |
+| API Testing | Request validation, response assertions, status codes, and error handling |
+| Test Automation | Maintainable UI and API tests using Java |
+| Database Testing | SQL queries and data consistency checks |
+| Test Documentation | Test scenarios, test cases, bug reports, and test summaries |
 
-Firebase · SQLite · Realm · Sass · Vite · Gradle · Figma
-</details> <p align="center"> <b>Let's connect</b><br><br> <a href="https://www.linkedin.com/in/mahammadjafarzada/">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:mahammadjafarzda@gmail.com">Email</a> &nbsp;·&nbsp; <a href="https://www.instagram.com/dailynomadcoder/">Instagram</a> </p> 
+## Tools & Technologies
+
+### Test Automation & API Testing
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![REST Assured](https://img.shields.io/badge/REST_Assured-2E7D32?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### Databases & Development Tools
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+### Test Management & Collaboration
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![TestRail](https://img.shields.io/badge/TestRail-65C179?style=for-the-badge)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+
+### Development Background
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+
+## My Approach to Quality
+
+- Understand the requirement and the user journey before writing tests.
+- Prioritize critical workflows and areas with higher risk.
+- Cover positive, negative, and boundary scenarios.
+- Report defects with clear steps, expected results, actual results, and evidence.
+- Automate repeatable checks and use exploratory testing to investigate further.
+- Keep automated tests readable, independent, and easy to maintain.
+
+## Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/mahammadjafarzada/) ·
+[Instagram](https://www.instagram.com/dailynomadcoder/) ·
+[Facebook](https://www.facebook.com/mehemmed.ceferzade/) ·
+[Email](mailto:mahammadjafarzda@gmail.com)
